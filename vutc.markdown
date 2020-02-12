@@ -20,9 +20,8 @@ Web Developer
 ----
 As a freshman I was asked to first learn web development, and then take control of the mess that was the original website. It had been made in 2004, and the current year was 2015, so it was certainly a bit dated (and passwords were saved in plain text). I worked on it with the assistance of the Vice President at the time, an Electrical Engineer who had slightly more HTML/SQL/PHP experience than I did. Together we completely overhauled functionality, and UI/UX. When I took on the position of Events Manager, in order to better delegate tasks, I created the Web Development team that I oversaw.  
 
-<div class="VUTCbox">
-	    <span style="">The New Dashboard for workers supplied information about their events and open positions on other events as well as some other general information like notifications and monthly event count tracking. We also implemented a barcode scanning system to maintain our equipment inventory. This was both to handle possibly forgetting equipment, and to track equpiment in need of repairs. This system also led to the creation of an event planning system that would pull equipment from an unused list to avoid events on the same day requiring the same equipment.</span>
-</div>
+The New Dashboard for workers supplied information about their events and open positions on other events as well as some other general information like notifications and monthly event count tracking. We also implemented a barcode scanning system to maintain our equipment inventory. This was both to handle possibly forgetting equipment, and to track equpiment in need of repairs. This system also led to the creation of an event planning system that would pull equipment from an unused list to avoid events on the same day requiring the same equipment.
+
 <div class="VUTCbox">
     <img src="https://i.imgur.com/zYMS62M.png" style="width:50%;height:50%; float:right;padding: 5px;">
     <img src="https://i.imgur.com/flJDd3P.png" style="width:50%;height:50%; float:left;padding: 5px;">
